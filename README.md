@@ -13,6 +13,7 @@ This is a list of the books and various resources I personally refer to in learn
 - John Shovic, Alan Simpson - Python All-in-One For Dummies (2021, For Dummies)
 - Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming (2022, O'Reilly Media)
 - James, Witten, Hastie, et. al - An Introduction to Stastical Learning (with Applications in Python)
+- Automate The Boring Stuff with Python - https://automatetheboringstuff.com/
 
 
 # R
