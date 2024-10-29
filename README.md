@@ -31,7 +31,6 @@ This is a list of the books and various resources I personally refer to in learn
 - Jeremy Howard, Sylvain Gugger - Deep Learning for Coders With Fastai and Pytorch_ Ai Applications Without a Phd (2020, Oreilly & Associates Inc)
 - [Adaptive Computation and Machine Learning series] Bengio, Yoshua_ Courville, Aaron_ Goodfellow, Ian J - Deep learning_ adaptive computation and machine learning (2016, The MIT Press)
 - Chip Huyen - Designing Machine Learning Systems_ An Iterative Process for Production-Ready Applications (2022, O'Reilly Media)
-- 
 
 
 # # # ------------ ONLINE DATA SOURCES ------------ # # #
@@ -40,11 +39,12 @@ This is a list of the books and various resources I personally refer to in learn
 - Kaggle (https://www.kaggle.com/)
 - Statistica (https://www.statista.com/)
 - Google Trends
+- Simmons Data Repositories List [https://oad.simmons.edu/oadwiki/Data_repositories]
 
 # Research Sites
 - PubChem (https://pubchem.ncbi.nlm.nih.gov/)
 - ArXiv
-- Google Scholar
+- Google Scholar [https://scholar.google.com/]
 
 
 ...
