@@ -46,5 +46,8 @@ This is a list of the books and various resources I personally refer to in learn
 - ArXiv
 - Google Scholar [https://scholar.google.com/]
 
-
+# Forums
+- LessWrong
+- Data Science Stack Exchange
+- 
 ...
